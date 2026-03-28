@@ -94,4 +94,3 @@ Teaming up can be a great way to learn! You can invite others to your team or as
 
 > Will Cukierski. Titanic - Machine Learning from Disaster. https://kaggle.com/competitions/titanic, 2012. Kaggle.
 
----
